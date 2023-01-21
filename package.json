@@ -1,0 +1,22 @@
+{
+  "name": "binance-trading",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuzzesick/binance-trading.git"
+  },
+  "author": "nuzze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nuzzesick/binance-trading/issues"
+  },
+  "homepage": "https://github.com/nuzzesick/binance-trading#readme",
+  "dependencies": {
+    "binance-api-node": "^0.12.2"
+  }
+}
